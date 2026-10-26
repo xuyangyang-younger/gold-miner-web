@@ -4,7 +4,7 @@
 
 ## 在线试玩
 
-- [直接试玩（第三方 Raw.Githack 预览）](https://raw.githack.com/xuyangyang-younger/gold-miner-web/main/index.html)
+- [直接试玩（第三方 GitHub HTML Preview 预览）](https://htmlpreview.github.io/?https://github.com/xuyangyang-younger/gold-miner-web/blob/main/index.html)
 - GitHub Pages：仓库 Settings → Pages → Build and deployment → Deploy from a branch → main / (root) → Save。部署成功后访问 https://xuyangyang-younger.github.io/gold-miner-web/ 。此地址仅在启用 Pages 并部署成功后可用。
 
 ## 玩法
